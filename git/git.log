@@ -1,0 +1,42 @@
+commit ba009fe891d31600ef30e4353079394a503f05d5
+Author: Cole Sulak <nsulak@teksystems.com>
+Date:   Wed Aug 17 09:19:24 2022 -0500
+
+    Rebased git branch off develop with addition of header in README
+
+commit a71e2896cbe16e8db03494b8b607bba8044a4d21
+Merge: 64f00d8 3f4f8d9
+Author: Cole Sulak <nsulak@teksystems.com>
+Date:   Wed Aug 17 09:17:08 2022 -0500
+
+    Accepted changes in git and develop branches to resolve merge conflict
+
+commit 64f00d8154d092eb25e62e57da567c1a0c5e8a2e
+Author: Cole Sulak <nsulak@teksystems.com>
+Date:   Wed Aug 17 09:15:24 2022 -0500
+
+    Added a 'line of code' to the README
+
+commit 3f4f8d903c81770683d4cd5f2705936ca74d8c84
+Author: Cole Sulak <nsulak@teksystems.com>
+Date:   Wed Aug 17 09:13:59 2022 -0500
+
+    Added italicized text to README
+
+commit cca9f2eff1abd66aa6e8bdc6ed83d399de865e7b
+Author: Cole Sulak <nsulak@teksystems.com>
+Date:   Wed Aug 17 09:11:57 2022 -0500
+
+    Added new text that is bold to README
+
+commit d7069f4a767b337ab9e061f51247342351f37049
+Author: Cole Sulak <nsulak@teksystems.com>
+Date:   Wed Aug 17 09:09:33 2022 -0500
+
+    Created README with headings
+
+commit 7a036b4770cd6fd7b4b90b109fbf5aef001af4c0
+Author: Cole Sulak <97049435+c0l3yni@users.noreply.github.com>
+Date:   Mon Aug 8 09:00:49 2022 -0500
+
+    Initial commit
